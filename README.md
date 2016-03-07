@@ -50,4 +50,5 @@ This is a snapshot of the wikipedia category "Airlines". The visualization shows
 
 update
 ============
-just change some layout for Chinese convention.
+just change some layout for Chinese convention.<br>
+![screen capture](chinese.png)
