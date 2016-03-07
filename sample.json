@@ -1,34 +1,46 @@
 {
-    "name": "Airlines",
+    "name": "高级项目经理",
     "parents": [
         {
-            "name": "Aviation",
+            "name": "项目经理",
             "isparent": true
         },
         {
-            "name": "Transparent_companies",
+            "name": "高级项目经理",
             "isparent": true
         },
         {
-            "name": "Transport_operators",
+            "name": "项目经理/主管",
+            "isparent": true
+        },
+        {
+            "name": "软件工程师",
+            "isparent": true
+        },
+        {
+            "name": "高级软件工程师",
             "isparent": true
         }
     ],
     "children": [
         {
-            "name": "Airline_alliances",
+            "name": "高级项目经理",
             "isparent": false
         },
         {
-            "name": "Airlines_by_continent",
+            "name": "项目经理",
             "isparent": false
         },
         {
-            "name": "Airlines_by_type",
+            "name": "部门经理",
             "isparent": false
         },
         {
-            "name": "Defunct_airlines",
+            "name": "项目总监",
+            "isparent": false
+        },
+        {
+            "name": "总监/部门经理",
             "isparent": false
         }
     ]
